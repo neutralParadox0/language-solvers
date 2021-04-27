@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7af81a11c73bcf14e87777ffc0d64cd8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blank: {instanceID: 0}
+  - state: {instanceID: 0}
+  - acceptState: {instanceID: 0}
+  - stateTransition: {instanceID: 0}
+  - input: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
